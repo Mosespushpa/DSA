@@ -1,4 +1,3 @@
-import java.io.*;
 import java.util.*;
 
 class Whileloop{
@@ -33,5 +32,6 @@ class Whileloop{
             i1++;
         }
         System.out.println();
+     sc.close();
     }
 }

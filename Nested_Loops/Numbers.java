@@ -17,7 +17,7 @@ class Numbers {
             }
             System.out.println();
         }
-
+        sc.close();
     }
 }
 

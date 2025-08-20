@@ -144,6 +144,6 @@ class _2Dpatterns {
             }
             System.out.println();
         }
-        
+     sc.close();    
     }
 }

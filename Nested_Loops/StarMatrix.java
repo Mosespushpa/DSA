@@ -12,6 +12,6 @@ class StarMatrix {
             }
             System.out.println();
         }
-
+         sc.close();
     }
 }

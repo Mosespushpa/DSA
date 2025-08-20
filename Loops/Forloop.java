@@ -30,6 +30,6 @@ class Forloop{
             c++;
         }
         System.out.println();
-        
+     sc.close();    
     }
 }
