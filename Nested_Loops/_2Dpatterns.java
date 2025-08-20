@@ -1,5 +1,5 @@
 import java.util.*;
-class Right_Angle_Triangle {
+class _2Dpatterns {
     public static void main(String mos[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("Enter no.of rows: ");
