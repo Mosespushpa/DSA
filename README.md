@@ -7,3 +7,6 @@ DSA from scratch
     2.1 - (20/08/2025)for, while loops.
 # 3 Nested Loops
     3.1 - (20/08/2025)_2D_Patterns.
+# 4 Practiced
+    4.1 - (21/08/2025)Loops, Conditional Statements, Functions
+    4.2 - (21/08/2025)_2D_Patterns
