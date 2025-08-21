@@ -78,7 +78,7 @@ class Patterns{
         }
         System.out.println();
     }
-    //Number Pattern - 5
+    //Number Pattern  - 5
     // 1
     // 1 2
     // 3 5 8
