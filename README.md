@@ -10,3 +10,12 @@ DSA from scratch
 # 4 Practiced
     4.1 - (21/08/2025)Loops, Conditional Statements, Functions
     4.2 - (21/08/2025)_2D_Patterns
+# 5 Time and Space Complexity
+    5.1 - (19/09/2025) Time and Space Complexity
+            Youtube link - https://youtu.be/FPu9Uld7W-E?si=WKkFCxZwlh5rJlIc
+    5.2 - (23/09/2025) Practiced some Patterns
+            Youtube link - https://youtu.be/tNm_NNSB3_w?si=s4KotfXgiCW4fTq0
+    5.3 - (22/09/2025) - Started Basic Math for DSA
+            Youtube link - https://youtu.be/1xNbjMdbjug?si=TRMYAfyER3uSfL1i
+# From here on i will be doing a Project every week.
+And not just project but explaination videos in youtube of the projects as well as the DSA, i will to make playlist accordingly, and try to be consistent.
