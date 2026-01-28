@@ -1,0 +1,16 @@
+### configurinf Git ###
+git init
+//Global
+git config --global user.name "Programmer"
+git config --global user.email "Programmer@example.com"
+git config --global user.bio "I am a Git learner"
+git config --global user.company "Teknoturf"
+git config --global user.location "Chennai"
+
+//Local
+git init
+git config  user.name "Programmer"
+git config  user.email "Programmer@example.com"
+git config  user.bio "I am a Git learner"
+git config  user.company "Teknoturf"
+git config  user.location "Chennai" 

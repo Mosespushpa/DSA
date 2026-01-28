@@ -1,0 +1,57 @@
+Interviewer - S Reshma
+____________________________________
+1# 
+static keyword for variables 
+----------------------------
+2#
+String s1 = new String("abc");
+String s2 = new String("abc");
+
+
+String s1 = "abc";
+String s2 = "abc";
+--------------------------------
+3#
+overriding - real time example
+------------------------------
+4#
+int a = 10;
+int b = 11;
+
+a = a + b // 21
+b = a - b  // 21 - 11 -> 10
+a = a - b   // 21 - 10 -> 11
+-------------------------------
+5#
+driver.findElement(By.xpath("//div[id='xy']/preceding-parent::div[1]"));
+
+driver.find_Element(By.CSS_SELECTOR("#xy"))
+
+* difference between xpath and css_selectors
+
+---------------------------------------------------------------------
+6#
+Action action = new Action(driver);
+
+
+action.contextClick(element).perform();
+
+* Is there rightClick() in Actions
+* what is the difference between build() and perform()
+-----------------------------------------------------------------
+7#
+Frames() and iFrames()
+
+* how do you navigate from one frame to another
+* for example you have three tabs opended in a window, how do you navigate from 1st tab to 3rd tab.
+* what is windowHandles()
+
+------------------------------------------------------------------
+8#
+difference between click and submit
+
+* how click is performed
+* how submit() is different from click()
+
+---------------------------------------------------------------
+do you have any questions?
