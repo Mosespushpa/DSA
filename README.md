@@ -22,3 +22,5 @@ And not just project but explaination videos in youtube of the projects as well 
 # 6 Basic Math for DSA
     6.1 - (27/09/2025) - Add digit, Reverse of number, Palindrome number
             Leetcode link - https://leetcode.com/problem-list/math/
+# 7 & 8 (28-01-2026)
+    Started Again from scratch.
