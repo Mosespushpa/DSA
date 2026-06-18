@@ -8,7 +8,7 @@ class Bubble_Sort{
     }
 
     public static void main(String mos[]){
-        Bubble1 b1 = new Bubble1();
+        Bubble_Sort b1 = new Bubble_Sort();
 
         int arr[] = {7,12,9,11,3};
         int n = arr.length;
