@@ -31,3 +31,5 @@ And not just project but explaination videos in youtube of the projects as well 
 # RESTART AGAIN (18-06-2026)
     Started with Bubble sort 
     (18-06-2026) RESTART again from Sorting
+    (19-06-2026) - (20-06-2026) Done with Bubble,Selection,Insertion,Merge,Quick Sorting Algorithms.
+    (24-05-2026) - Bubble Sort Algorithm #"Manual_Iteration/Dry_Run/Implementation"#
