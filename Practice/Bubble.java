@@ -17,16 +17,16 @@ class Bubble{
         b.print(n,arr);
 
         for(int i=0;i<n;i++){
-            boolean Swaped = false;
-            for(int j=0;j<n-i-1;j++){
+            boolean isSwapped = false;
+            for(int j=0;j<n-1-i;j++){
                 if(arr[j+1] < arr[j]){
                     int temp = arr[j+1];
                     arr[j+1] = arr[j];
                     arr[j] = temp;
-                    Swaped  = true;
+                    isSwapped = true;                    
                 }
             }
-            if(!Swaped) break;
+            if(!isSwapped) break;
         }
         System.out.println("After Sorting");
         b.print(n,arr);
