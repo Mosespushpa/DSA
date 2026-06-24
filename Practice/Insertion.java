@@ -18,12 +18,12 @@ class Insertion{
 
         for(int i=1;i<n;i++){
             int j = i-1;
-            int current_ele = arr[i];
-            while(j>=0 && current_ele < arr[j]){
+            int currElement = arr[i];
+            while(j>=0 && arr[j] > currElement){
                 arr[j+1] = arr[j];
-                j = j - 1;
+                j--;
             }
-            arr[j+1] = current_ele; 
+            arr[j+1] = currElement;
         }
         System.out.println("After Sorting");
         in.print(n,arr);
