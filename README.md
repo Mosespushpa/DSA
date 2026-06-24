@@ -21,7 +21,7 @@ DSA from scratch
 And not just project but explaination videos in youtube of the projects as well as the DSA, i will to make playlist accordingly, and try to be consistent.
 # 6 Basic Math for DSA
     6.1 - (27/09/2025) -  
-            Leetcode link - https://leetcode.com/problem-list/math/
+    Leetcode link - https://leetcode.com/problem-list/math/
 # 7 & 8 (28-01-2026)
     Started Again from scratch.
     This time using W3Schools RoadMap for concepts- https://www.w3schools.com/dsa/dsa_algo_bubblesort.php
