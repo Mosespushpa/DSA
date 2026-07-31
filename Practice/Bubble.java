@@ -15,19 +15,20 @@ class Bubble{
         System.out.println("Bubble Sort Algorithm");
         System.out.println("Before Sorting");
         b.print(n,arr);
-
+        
         for(int i=0;i<n;i++){
-            boolean isSwapped = false;
-            for(int j=0;j<n-1-i;j++){
-                if(arr[j+1] < arr[j]){
-                    int temp = arr[j+1];
-                    arr[j+1] = arr[j];
-                    arr[j] = temp;
-                    isSwapped = true;                    
+            boolean is_Swapped = false;
+            for(int j=0;j<n-i-1;j++){
+                if(arr[j] > arr[j+1]){
+                    int temp = arr[j];
+                    arr[j] = arr[j+1];
+                    arr[j+1] = temp;
+                    is_Swapped = true;
                 }
             }
-            if(!isSwapped) break;
+            if(!is_Swapped) break;
         }
+        
         System.out.println("After Sorting");
         b.print(n,arr);
 
