@@ -33,3 +33,12 @@ And not just project but explaination videos in youtube of the projects as well 
     (18-06-2026) RESTART again from Sorting
     (19-06-2026) - (20-06-2026) Done with Bubble,Selection,Insertion,Merge,Quick Sorting Algorithms.
     (24-05-2026) - Bubble Sort Algorithm #"Manual_Iteration/Dry_Run/Implementation"#
+# RESTART AGAIN (31-07-2026)
+    For a long time after I sovled a leetcode daily problem, entiry brutforce 
+    3016. Minimum Number of Pushes to Type Word II 
+        Accepted
+        15 minutes ago
+        Java
+        138 ms
+        53.6 MB
+        Notes
