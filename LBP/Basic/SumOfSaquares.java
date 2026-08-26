@@ -1,0 +1,6 @@
+/**
+ * SumOfSaquares
+ */
+public class SumOfSaquares {
+
+}
