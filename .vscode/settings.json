@@ -6,5 +6,8 @@
     "editor.inlineSuggest.syntaxHighlightingEnabled": false,
     "editor.screenReaderAnnounceInlineSuggestion": false,
     "amazonQ.importRecommendationForInlineCodeSuggestions": false,
-    "editor.acceptSuggestionOnCommitCharacter": false
+    "editor.acceptSuggestionOnCommitCharacter": false,
+    "editor.acceptSuggestionOnEnter": "off",
+    "editor.snippetSuggestions": "none",
+    "editor.suggest.selectionMode": "never"
 }
